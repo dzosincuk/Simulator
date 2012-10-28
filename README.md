@@ -1,0 +1,4 @@
+Simulator
+=========
+
+Simulace vlády
